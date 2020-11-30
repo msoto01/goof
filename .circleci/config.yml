@@ -5,4 +5,3 @@ workflows:
   node-tests:
     jobs:
       - node/test
-API_TOKEN=16613276-4631-477b-8a2c-9846573209dc
