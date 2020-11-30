@@ -13,4 +13,4 @@ steps:
       project: '${CIRCLE_PROJECT_REPONAME}/${CIRCLE_BRANCH}-app'          
       severity-threshold: high          
       token-variable: SnykAuth
-      workflows: null
+workflows: null
