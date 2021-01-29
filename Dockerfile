@@ -1,4 +1,4 @@
-FROM node:6-stretch
+FROM node:14.15.4-buster-slim
 
 RUN mkdir /usr/src/goof
 RUN mkdir /tmp/extracted_files
